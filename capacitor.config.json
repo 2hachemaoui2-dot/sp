@@ -1,0 +1,6 @@
+{
+  "appId": "com.sp.app",
+  "appName": "SP",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
